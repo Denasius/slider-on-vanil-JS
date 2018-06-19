@@ -1,0 +1,1 @@
+# slider-on-vanil-JS
